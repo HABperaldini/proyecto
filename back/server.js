@@ -9,6 +9,7 @@ const app = express();
 
 const { PORT } = process.env;
 
+// commentario no correcto
 app.get("/", (req, res) => {
   res.status(200).send("¡Hola!");
 });
