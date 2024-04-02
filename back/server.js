@@ -7,7 +7,7 @@ import express from 'express';
 
 const app = express();
 
-const { PORT, a } = process.env;
+const { PORT, b } = process.env;
 
 // commentario no correcto
 app.get('/', (req, res) => {
