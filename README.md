@@ -1,1 +1,1 @@
-Proyecto integrador de ejemplo
+Proyecto integrador de ejemplo.
